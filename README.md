@@ -1,2 +1,2 @@
 # SegRap2023_Challenge
-SegRap2023_Challenge Code
+SegRap2023_Challenge_Code
